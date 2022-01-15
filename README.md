@@ -18,7 +18,7 @@
 - [计算机系统基础（一）：程序的表示、转换与链接](http://www.icourse163.org/course/NJU-1001625001)
 - [计算机系统基础（二）：程序的执行和存储访问](http://www.icourse163.org/course/NJU-1001964032)
 - [计算机系统基础（三）：异常、中断和输入/输出](http://www.icourse163.org/course/NJU-1002532004)
-- [计算机系统基础（四）](https://www.icourse163.org/course/NJU-1449521162)
+- [计算机系统基础（四）：编程与调试实践](https://www.icourse163.org/course/NJU-1449521162)
 
 ②这里推荐大家一本书，叫做[《深入理解计算机系统》](https://github.com/litxiaoyao/swust_ics_lab/blob/main/%E6%8B%93%E5%B1%95%E8%B5%84%E6%96%99/Computer_Systems_A_Programmers_Perspective(3rd).pdf)（即CSAPP）。这本书使用的是x86-64架构，在广度和深度上都远远超过我们的课本。但这并不代表它就很难，相反，这本书相比于我们的教材来说过于“通俗易懂”，试图把我们当作一个小学生来解释一些清晰的概念，从源头来解释一些底层设计为什么要这样来做。英语阅读能力较好的同学建议阅读英文原版，这里不花时间解释原因，自己读了对比下就知道了。
 
@@ -29,11 +29,13 @@
 - [2015 CMU 15-213 CSAPP英文字幕](https://www.bilibili.com/video/av40238125)
 - [2015 CMU 15-213 CSAPP中英文字幕](https://www.bilibili.com/video/av31289365)
 
-④南京大学自己的实验课程，同学们可以感受下难度的差异[南京大学 计算机科学与技术系 计算机系统基础 课程实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/index.html)
+④南京大学自己的实验课程，同学们可以感受下难度的差异.[南京大学 计算机科学与技术系 计算机系统基础 课程实验](https://nju-projectn.github.io/ics-pa-gitbook/ics2021/index.html)
 
-⑤[The Missing Semester of Your CS Education](https://www.bilibili.com/video/BV1rU4y1h7Qr)
+⑤实验中需要用到Linux，建议大家熟练使用的一些工具：
 
-⑥实验中需要用到Linux，建议大家熟练使用vim[vim在线练习](https://www.openvim.com/tutorial.html)
+[The Missing Semester of Your CS Education](https://www.bilibili.com/video/BV1rU4y1h7Qr)
 
-⑦CMU_ICS课程首页。难度较大，留在最后。[CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
+[vim在线练习](https://www.openvim.com/tutorial.html)
+
+⑦CMU_ICS课程首页。难度较大，留在最后.[CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
 
