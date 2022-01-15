@@ -37,5 +37,5 @@
 
 [vim在线练习](https://www.openvim.com/tutorial.html)
 
-⑦CMU_ICS课程首页。难度较大，留在最后.[CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
+⑥CMU_ICS课程首页。难度较大，留在最后.[CMU: Introduction to Computer Systems](https://www.cs.cmu.edu/~213/)
 
